@@ -35,7 +35,7 @@ Based on the findings, the following recommendations can be made:
 
 ## Slides and Appendix
 
-Please refer to the attached [slides](link-to-slides) for a summary of the findings and recommendations. The appendix contains additional content, including code snippets and workbooks used for the analysis.
+Please refer to the attached [slides](https://github.com/BelleKou/AB_TEST/blob/main/AB_test_Instacart/Instacart%20Project.pdf)) for a summary of the findings and recommendations. The appendix contains additional content, including code snippets and workbooks used for the analysis.
 
 Thank you for your interest in this A/B test analysis. Should you have any further questions or require additional information, please feel free to reach out to us.
 <img width="3006" height="1223" alt="image" src="https://github.com/user-attachments/assets/9e0293d7-cece-4eca-8a49-5d807aa3111c" />
